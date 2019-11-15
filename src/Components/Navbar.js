@@ -1,8 +1,4 @@
 import React from 'react';
-import '../App.css';
-import './Container.js';
-import './Profils.js';
-import './Comment.js';
 
 class NavBar extends React.Component {
     render() {

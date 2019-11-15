@@ -1,8 +1,6 @@
 import React from 'react';
-import './Components/Comment.js';
-import './Components/Container.js';
-import './Components/NavBar.js';
-import './Components/Profils.js';
+import Container from './Components/Container.js';
+import './App.css';
 
 class Main extends React.Component {
     render() {
