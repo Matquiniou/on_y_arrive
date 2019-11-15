@@ -1,7 +1,10 @@
 import '../App.css';
-import './Navbar.js';
-import './Profils.js';
-import './Comment.js';
+import React from 'react';
+
+import NavBar from './Components/NavBar.js';
+import Comment from './Components/Comment.js';
+import Profils from './Components/Profils.js';
+
 import martine from "../Martine.png";
 import camille from "../Camille.png";
 import boby from "../boby.png";

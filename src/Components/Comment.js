@@ -1,8 +1,9 @@
 import React from 'react';
 import './App.css';
-import './Navbar.js';
-import './Profils.js';
-import './Container.js';
+
+import NavBar from './Components/NavBar.js';
+import Container from './Components/Container.js';
+import Profils from './Components/Profils.js';
 
 class Comment extends React.Component {
     render() {
