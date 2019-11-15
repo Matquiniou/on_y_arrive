@@ -1,4 +1,12 @@
 import React from 'react';
+<<<<<<< HEAD
+=======
+import '../App.css';
+
+import NavBar from './Components/NavBar.js';
+import Comment from './Components/Comment.js';
+import Container from './Components/Container.js';
+>>>>>>> bc01f320e56e5a10e79f511a362ccdf9555e2b86
 
 class Profils extends React.Component {
 

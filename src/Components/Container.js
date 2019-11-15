@@ -1,7 +1,17 @@
+<<<<<<< HEAD
 import React from 'react';
 import NavBar from './Navbar.js';
 import Profils from './Profils.js';
 import Comment from './Comment.js';
+=======
+import '../App.css';
+import React from 'react';
+
+import NavBar from './Components/NavBar.js';
+import Comment from './Components/Comment.js';
+import Profils from './Components/Profils.js';
+
+>>>>>>> bc01f320e56e5a10e79f511a362ccdf9555e2b86
 import martine from "../Martine.png";
 import camille from "../Camille.png";
 import boby from "../boby.png";
